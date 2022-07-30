@@ -1,5 +1,4 @@
-#Krypto Assessment - Frontend
-
+# Ecommerce (React) Coding Assessment
 ## Development Setup
 
 - Clone this repo
