@@ -1,0 +1,21 @@
+.nav-container { 
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 3rem;
+    background-color: rgb(82, 150, 240);
+    color: white;
+}
+
+.nav-links{
+    color: white;
+    text-decoration: none;
+}
+.nav-right, .nav-left{
+    display: flex;
+}
+.nav-right{
+    justify-content: space-evenly;
+    width: 20%;
+    /* background-color: brown; */
+}
+
